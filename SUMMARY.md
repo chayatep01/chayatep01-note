@@ -2,7 +2,7 @@
 
 ## My note
 * [Mathematic for working programmer](math-for-working-programmer/mathematic-class-note.md) 
-* [Review software architecture design (Skooldio)](skooldio/review-software-arch-design-skooldio.md) 
+* [Review software architecture design course from skooldio](skooldio-course/review-software-arch-design-skooldio.md) 
 
 ***
 
